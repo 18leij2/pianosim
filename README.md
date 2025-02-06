@@ -1,4 +1,4 @@
-#PianoSim
+# PianoSim
 
 This is a pianotile-like game that utilizes a physical Adafruit Circuit Playground Express board as a controller. There are additional keyboard controls:
 - Keys S through K represent the regular keys
